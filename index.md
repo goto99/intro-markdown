@@ -16,3 +16,11 @@ Adding an image to a markdown file is as easy as a go!
 def myFunction():
     pass
 ```
+
+# Front-end learning tasks
+- [x] HTML5
+- [x] CSS
+- [x] Javascript
+- [ ] Git & Github
+- [ ] Vue
+- [ ] Tailwind CSS
